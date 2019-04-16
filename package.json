@@ -1,16 +1,22 @@
 {
-  "name": "tt",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
-  },
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomelo-chuan/toast.git"
+  },
+  "author": "chenchuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pomelo-chuan/toast/issues"
+  },
+  "homepage": "https://github.com/pomelo-chuan/toast#readme",
+  "dependencies": {
+    "webpack": "^4.30.0"
   }
 }
